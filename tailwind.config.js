@@ -10,7 +10,8 @@ module.exports = {
   	extend: {
   		colors: {
   			background: 'var(--background)',
-  			foreground: 'var(--foreground)'
+  			foreground: 'var(--foreground)',
+			'primary-blue': '#006FAC'
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
